@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**staranbeer/staranbeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### console.log(" Hello There 👋 ");
+___
+### My name's taran and i like working with javaScript and related frontend technologies. 
 
-Here are some ideas to get you started:
+I use The React ___framework___ for most of my projects. (I know its a library but "framework" sounds nicer).
+I've also got experience working with ✨ Nextjs ✨ and Astro &#128640;. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### As for Styling,
+#### Me &#129309; TailwindCss/ SCSS/ LESS/ Raw Css/ (whatever the project requirements are but usually Tailwind)
+
+___
+My Portfolio:
+[staranbeer.tech](staranbeer.tech)
