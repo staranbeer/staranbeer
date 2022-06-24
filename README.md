@@ -6,7 +6,7 @@ ___
 I use The React ___framework___ for most of my projects. (I know its a library but "framework" sounds nicer).
 I've also got experience working with ✨ Nextjs ✨ and Astro &#128640;. 
 
-#### As for Styling,
+As for Styling,
 #### Me &#129309; TailwindCss/ SCSS/ LESS/ Raw Css/ (whatever the project requirements are but usually Tailwind)
 
 ___
