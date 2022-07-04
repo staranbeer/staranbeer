@@ -15,4 +15,4 @@ Check out my website for new projects i am working on.
 
 ___
 My Portfolio:
-[staranbeer.tech](staranbeer.tech)
+[https://staranbeer.tech](https://staranbeer.tech)
