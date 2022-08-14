@@ -1,7 +1,16 @@
 
-### console.log(" Hello There 👋 ");
-___
-### My name's taran and i like working with javaScript and related frontend technologies. 
+i code.
+
+
+<p align="center" style="margin-top:1rem;">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=staranbeer" />
+</p>
+
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,materialui,javascript,typescript,react,redux,nextjs,nodejs,express,mongodb,figma,blender&perline=5" />
+</p>
+
 
 
 ___
