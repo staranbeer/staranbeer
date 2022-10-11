@@ -16,3 +16,5 @@ i code.
 ___
 My Portfolio:
 [https://staranbeer.tech](https://staranbeer.tech)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=staranbeer)](https://github.com/ryo-ma/github-profile-trophy)
