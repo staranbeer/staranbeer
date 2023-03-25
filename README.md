@@ -11,6 +11,8 @@ i code.
 </p>
 
 
+   <img src="https://github-readme-stats.vercel.app/api?username=staranbeer&show_icons=true&theme=radical&hide=stars&count_private=true" alt="github-stats" />
+
 ___
 My Portfolio:-
 [https://staranbeer.tech](https://staranbeer.tech)
