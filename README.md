@@ -13,3 +13,11 @@ i code.
 ___
 My Portfolio:-
 [https://staranbeer.tech](https://staranbeer.tech)
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sahilshahane&show_icons=true"/></p>
+<div align="center">
+
+<a herf="">![](https://komarev.com/ghpvc/?username=staranber&style=for-the-badge) </a>
+
+</div>
