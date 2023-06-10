@@ -10,6 +10,9 @@ i code and stuff.
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=staranbeer" />
 </p>
 
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sahilshahane&show_icons=true"/></p>
+
 ___
 My Portfolio:-
 [https://staranbeer.tech](https://staranbeer.tech)
