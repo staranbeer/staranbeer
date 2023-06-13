@@ -10,7 +10,3 @@ i code and stuff.
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=staranbeer" />
 </p>
 
-
-___
-My Portfolio:-
-[https://staranbeer.tech](https://staranbeer.tech)
