@@ -1,5 +1,5 @@
 
-i code and stuff.
+i code.
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,materialui,javascript,typescript,react,redux,nextjs,nodejs,express,mongodb,figma,blender&perline=5" />
