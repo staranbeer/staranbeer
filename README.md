@@ -1,6 +1,8 @@
 
 i code.
 
+I haven't gotten a chance to update my resume or project. email me if you've got any enquires.
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwindcss,figma&perline=5" />
 </p>
