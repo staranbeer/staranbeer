@@ -1,7 +1,7 @@
 
 i code.
 
-I haven't gotten a chance to update my resume or project. email me if you've got any enquires.
+I have not had the opportunity to update my resume or project. Please contact me if you have any inquiries.
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwindcss,figma&perline=5" />
